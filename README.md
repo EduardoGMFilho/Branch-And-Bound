@@ -24,3 +24,7 @@ Na Pesquisa Operacional (PO), o Branch and Bound é de suma importância por div
 .Fundamentação Teórica: O Branch and Bound serve como um pilar teórico e prático para o estudo e desenvolvimento de algoritmos em PO, fornecendo insights sobre a complexidade de problemas e as estratégias para navegar em espaços de busca enormes. Ele também é a base para algoritmos mais avançados usados em solvers comerciais de PO.
 
 Em resumo, o Branch and Bound é uma ferramenta indispensável na caixa de ferramentas de um especialista em Pesquisa Operacional, permitindo a resolução de problemas de otimização complexos com a garantia de encontrar a melhor solução possível.
+
+
+
+Referências: https://sites.google.com/view/po-ufpb/listas-de-exerc%C3%ADcios/mod-com-programa%C3%A7%C3%A3o-linear?authuser=0
