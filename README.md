@@ -27,4 +27,4 @@ Em resumo, o Branch and Bound é uma ferramenta indispensável na caixa de ferra
 
 
 
-Referências: https://sites.google.com/view/po-ufpb/listas-de-exerc%C3%ADcios/mod-com-programa%C3%A7%C3%A3o-linear?authuser=0
+Referências: https://sites.google.com/view/po-ufpb/in%C3%ADcio?authuser=0
